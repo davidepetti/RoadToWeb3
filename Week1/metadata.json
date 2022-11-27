@@ -1,0 +1,44 @@
+{
+  "description": "This NFT proves I've deployed an ERC721 Smart Contract on Goerli",
+  "external_url": "https://www.pokemon.com",
+  "image": "https://ipfs.filebase.io/ipfs/QmTfSweNMpEyfbo6jrZwpqwmtje9b481BYCozSwTThNEqw",
+  "name": "Charizard",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "HP",
+      "value": 78
+    },
+    {
+      "trait_type": "Attack",
+      "value": 84
+    },
+    {
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "trait_type": "Sp. Atk",
+      "value": 109
+    },
+    {
+      "trait_type": "Sp. Def",
+      "value": 85
+    },
+    {
+      "trait_type": "Speed",
+      "value": 100
+    },
+    {
+      "trait_type": "Total",
+      "value": 534
+    }
+  ]
+}
